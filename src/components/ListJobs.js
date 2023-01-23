@@ -57,7 +57,6 @@ const benefits = job.benefits.map((benefit) =>
     return (
         // LIST jobs, using length to show how many jobs were found
         <div>
-            <h3 className={styles.header}></h3>
             <div className={styles.card}>
                 <div className={styles.carddisplay}>
 
